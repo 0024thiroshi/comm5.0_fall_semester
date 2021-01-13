@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltbase=[0.0,0.5,1.0,0.5,0]plt.plot(base)plt.show()

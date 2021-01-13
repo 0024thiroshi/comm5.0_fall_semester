@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltimport numpy as npimport MyModule0803base=[0.0,0.5,1.0,0.5,0.0]plt.plot(base)plt.show()stim=[0.0, 1.0, 0.3, 1.0, 0.5]plt.plot(MyModule0803.myConv(stim,base))plt.show()
